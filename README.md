@@ -1,12 +1,12 @@
-Claro! Aqui está o README com a metodologia de execução do projeto adicionada:
+
 
 ```markdown
-- 👋 Hi, I’m @difusoraambiental
+- 👋 Hi, I’m @difusoraambiental from NEPPSA IFRN
 - 👀 I’m interested in expanding access to information about the environment and sustainability.
 - 🌱 I’m currently learning innovative approaches to environmental education using online platforms.
 - 💞️ I’m looking to collaborate on creative and interactive community engagement projects.
-- 📫 How to reach me: [your contact information]
-- 😄 Pronouns: [your pronouns]
+- 📫 How to reach me: difusora.ambiental@gmail.com
+
 - ⚡ Fun fact: The use of social media during the pandemic has significantly demonstrated the effectiveness of educational content dissemination.
 
 <!---
